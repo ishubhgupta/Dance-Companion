@@ -97,7 +97,7 @@ python dance_companion.py --webcam 0 --offset 100
 
 ## Sample Input & Output
 
-![Original Frame](docs/original.png)   ![Mirrored Overlay](docs/overlay.png)
+![Original Frame](images/input.png)   ![Mirrored Overlay](images/output.png)
 
 In the composite view, the left side shows the raw video and the right side shows the mirrored skeleton in real time.
 
